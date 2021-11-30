@@ -1,0 +1,84 @@
+* {
+    /* background-color:#d2ebe9; */
+    margin-inline: #c0dfde;
+}
+
+body {
+    margin: 0;
+    background-color:#262727;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.head1 {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-align: left;
+    background-color: #56aca3;
+    top: 0;
+    text-align: center;
+    /* padding-left:350px; */
+    padding-top: 15px;
+    margin: 26px 26px 0 26px;
+    border-radius: 5px 5px 0 0;
+}
+
+.head2 {
+    position: -webkit-sticky;
+    position: sticky;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    text-align: center;
+    background-color: #56aca3;
+    border-radius: 0 0 5px 5px;
+    top: 0;
+    padding: 6px 0 6px 0;
+    margin: 0 26px 0 26px;
+}
+
+
+#profile, #project {
+    font-family: 'Lora', serif;
+    background-color:#def1f0;
+    padding: 0 40px 0 40px;
+    border: 6px solid #63a7a0;
+    border-radius: 8px;
+    margin: 26px;
+    padding-bottom: 10px;
+}
+
+#profile {
+    text-align: left;
+}
+
+#project {
+    text-align: center;
+}
+
+.title {
+    color: #26a69a;
+    text-align:center;
+}
+
+img {
+    border-radius: 7px;
+}
+.tutorial {
+    margin: 15px;
+}
+
+#bottom {
+    font-family: 'Anton', sans-serif;
+    color:rgb(206, 206, 206);
+    text-align: center;
+    margin: 15px;
+    bottom: 0;
+}
