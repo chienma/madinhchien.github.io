@@ -1,11 +1,11 @@
 * {
     /* background-color:#d2ebe9; */
-    margin-inline: #c0dfde;
+    margin-inline: #bed6d5;
 }
 
 body {
     margin: 0;
-    background-color:#262727;
+    background-color:#424747;
 }
 
 h1 {
@@ -22,13 +22,13 @@ h1 {
     font-family: 'Playfair Display', serif;
     color: white;
     text-align: left;
-    background-color: #56aca3;
+    background-color: #4b636e;
     top: 0;
     text-align: center;
     /* padding-left:350px; */
     padding-top: 15px;
-    margin: 26px 26px 0 26px;
-    border-radius: 5px 5px 0 0;
+    margin: 24px 24px 0 24px;
+    border-radius: 0.5rem 0.5rem 0 0;
 }
 
 .head2 {
@@ -37,11 +37,11 @@ h1 {
     font-family: 'Playfair Display', serif;
     color: white;
     text-align: center;
-    background-color: #56aca3;
-    border-radius: 0 0 5px 5px;
+    background-color: #4b636e;
+    border-radius: 0 0 0.5rem 0.5rem;
     top: 0;
     padding: 6px 0 6px 0;
-    margin: 0 26px 0 26px;
+    margin: 0 24px 0 24px;
 }
 
 
@@ -49,10 +49,10 @@ h1 {
     font-family: 'Lora', serif;
     background-color:#def1f0;
     padding: 0 40px 0 40px;
-    border: 6px solid #63a7a0;
-    border-radius: 8px;
-    margin: 26px;
-    padding-bottom: 10px;
+    border: 6px solid #4b636e;
+    border-radius: 0.5rem;
+    margin: 24px;
+    padding-bottom: 15px;
 }
 
 #profile {
@@ -61,10 +61,11 @@ h1 {
 
 #project {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 .title {
-    color: #26a69a;
+    color: #338376;
     text-align:center;
 }
 
@@ -79,6 +80,6 @@ img {
     font-family: 'Anton', sans-serif;
     color:rgb(206, 206, 206);
     text-align: center;
-    margin: 15px;
+    margin: 10px;
     bottom: 0;
 }
